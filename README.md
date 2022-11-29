@@ -14,4 +14,5 @@ depois de criado esses 3 campos, você irá criar o contato passando o id do ema
 
 há um arquivo postman na pasta resources
 Nele já tem um template de cada objeto.
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
