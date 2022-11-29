@@ -12,5 +12,6 @@ Vale ressaltar que elas estão sem tratamento de exceções.
 Para criar um novo contato, você deverá criar um email, um telefone e um endereço,
 depois de criado esses 3 campos, você irá criar o contato passando o id do email, telefone e endereço.
 
-No arquivo do postman já tem um template de cada objeto.
+há um arquivo postman na pasta resources
+Nele já tem um template de cada objeto.
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
