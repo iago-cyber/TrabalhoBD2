@@ -1,0 +1,9 @@
+CREATE TABLE telefone
+(
+    id BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+    telefone    VARCHAR(20) NOT NULL
+
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO telefone (telefone)
+values ("61 3355-6262");
